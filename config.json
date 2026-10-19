@@ -1,0 +1,10 @@
+{
+  "reference_repo": "../../DynRT-main",
+  "dataset": "..",
+  "asr_dependencies": "../.eval-deps",
+  "asr_model": "../evaluation_100/vosk-model-small-en-us-0.15",
+  "ffmpeg": "C:/Users/Admin/Desktop/项目/eldercare_emotion/.local/ffmpeg/ffmpeg-8.1.1-essentials_build/bin/ffmpeg.exe",
+  "seed": 20261017,
+  "sample_hz": 1,
+  "max_frames": 32
+}

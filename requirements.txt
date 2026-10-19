@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+timm
+numpy
+scipy
+scikit-learn
+joblib
+opencv-python
+Pillow
+vosk
+sounddevice
+threadpoolctl
